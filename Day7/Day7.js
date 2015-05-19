@@ -19,7 +19,7 @@ while (userPrompt != "odd" && userPrompt != "even") {
 
 
 //function
-function evenArray(argArray, oddOrEven) {
+function evenArray(oddOrEven) {
 
     //local variable
     var newArray = [];
@@ -33,13 +33,13 @@ function evenArray(argArray, oddOrEven) {
         zeroOrOne = 0
     }
 
-    for (var i = 0; i < argArray.length; i++) {
+    for (var i = 0; i < numberArray.length; i++) {
 
-        modNum = argArray[i] % 2;
+        modNum = numberArray[i] % 2;
 
         if (modNum === zeroOrOne) {
 
-            newArray.push(argArray[i]);
+            newArray.push(numberArray[i]);
         }
     }
 
@@ -52,6 +52,7 @@ returnedArray = evenArray(numberArray,userPrompt);
 
 console.log("the " + userPrompt + " numbers array is " + returnedArray);
 
+console.log();
 
 
 
