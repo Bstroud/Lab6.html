@@ -4,17 +4,84 @@
 
 //alert("JavaScript Works.");
 
-//Lab6 review
+// global variable
+var numberArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+var returnedArray = [];
+
 
 //function
-function authorFunction(){
+function evenArray(argArray) {
 
-    //local arrays
+    //local variable
+    var newArray = [];
+    var modNum;
 
-    // for loop to go through the array items
-    // output each element
+    console.log(argArray);
 
-    //use an array method to alter the arrays
-
-    //do a final output of the
 }
+
+
+//main code
+returnedArray = evenArray(numberArray);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////Lab6 review
+//
+////function
+//function authorFunction(){
+//
+//    //local arrays
+//    var authors = ["Charles Dickens", "William Shakespeare", "Mark Twain", "Hunter S. Thomson"];
+//    var titles = [ "Oliver Twist", "Hamlet", "Tom Sawyer", "Fear and Loathing in Las Vegas"];
+//
+//    // for loop to go through the array items
+//    // output each element
+//    for (var i = 0; i < authors.length; i++){
+//
+//        console.log(authors[i] + " wrote " + titles + ".");
+//    }
+//
+//    //use an array method to alter the arrays
+//    authors.push("Dorothy Allison");
+//    titles.push("Bastard Out of Carolina");
+//
+//    //do a final output of the change
+//    console.log("I added " + authors[i] + " who wrote " + titles[i] + ".")
+//}
+//
+////main code
+//authorFunction();

@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b324a3f-e408-41de-bd22-c0138c7400d7" name="Default" comment="Lab6 functions myArray(){}">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/Stroud_Brandyn_Lab5.html.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brandyn_Stroud_lab2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/Brandyn_Stroud_lab2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day3/js/Day3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/Day6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/Day6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/Dayfour.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/Lab5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab6_Arrays/Lab6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day5/lab5/SCRIPT.JS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day3/Script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/js/Script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/Stroud_Brandyn_Lab5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stroud_Brandyn_Lab5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/Stroud_Brandyn_Lab5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stroud_Brandyn_lab3/js/Stroud_Brandyn_lab3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stroud_Brandyn_lab3/js/Stroud_Brandyn_lab3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day5/lab5/Stroud_Brandyn_lab5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stroud_Brandyn_lab4/WORDPROBLEMS.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/WORDPROBLEMS.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fileColors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/.idea/fileColors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/.idea/fileColors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab6_Arrays/lab6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day5/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/sdi-lab4-errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sdi.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sdilogistics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stroud_brandyn_lab2.js/stroud_brandyn_lab2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stroud_Brandyn_lab4/wordproblems.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled folder/wordproblems.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stroud_brandyn_lab2.js/stroud_brandyn_lab2.js.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Stroud_Brandyn_lab4errors/lab4errors.html" afterPath="$PROJECT_DIR$/Day5/Day5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Stroud_Brandyn_lab4errors/script.js" afterPath="$PROJECT_DIR$/untitled folder/find-the-errors.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab6.js/lab6.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day7/Day7.js" afterPath="$PROJECT_DIR$/Day7/Day7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sdi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,47 +26,31 @@
         <favorite_root url="file://$PROJECT_DIR$/Stroud_Brandyn_lab4errors/script.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
         <favorite_root url="file://$PROJECT_DIR$/Stroud_Brandyn_lab4errors/lab4errors.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
       </favorite_root>
+      <favorite_root url="file://$PROJECT_DIR$/Lab6.js" module="sdi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/Lab6.js/lab6.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+      <favorite_root url="file://$PROJECT_DIR$/Lab6.html" module="sdi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/Lab6.html/Lab6.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
     </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Day6.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/Day6.html">
+      <file leaf-file-name="Day7.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day7/Day7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lab6.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab6_Arrays/Lab6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
+            <state vertical-scroll-proportion="0.32101166">
               <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab6.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab6_Arrays/lab6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39033458">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              <folding>
-                <element signature="n#!!doc;n#myArray#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day6.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/Day6.js">
+      <file leaf-file-name="Day7.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day7/Day7.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
@@ -162,6 +109,9 @@
         <option value="$PROJECT_DIR$/Lab6/lab6.js" />
         <option value="$PROJECT_DIR$/Lab6_Arrays/Lab6.html" />
         <option value="$PROJECT_DIR$/Lab6_Arrays/lab6.js" />
+        <option value="$PROJECT_DIR$/Lab6.html/Lab6.html" />
+        <option value="$PROJECT_DIR$/Day7/Day7.html" />
+        <option value="$PROJECT_DIR$/Day7/Day7.js" />
       </list>
     </option>
   </component>
@@ -173,8 +123,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="269" />
-    <option name="y" value="28" />
+    <option name="x" value="3" />
+    <option name="y" value="119" />
     <option name="width" value="1163" />
     <option name="height" value="661" />
   </component>
@@ -249,7 +199,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,18 +227,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab6_Arrays" />
+              <option name="myItemId" value="Day7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/untitled folder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab6_Arrays" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -321,6 +271,9 @@
       <recent name="$PROJECT_DIR$/Stroud_Brandyn_lab4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab6.js" />
+      <recent name="$PROJECT_DIR$/Lab6.html" />
+      <recent name="$PROJECT_DIR$/Lab6_Arrays" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Stroud_Brandyn_lab4errors" />
     </key>
@@ -406,18 +359,26 @@
       <option name="project" value="LOCAL" />
       <updated>1431821951855</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab 6 review. Day 7 beginning">
+      <created>1432041676751</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1432041676751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="28" width="1163" height="661" extended-state="1" />
-    <editor active="true" />
+    <frame x="3" y="119" width="1163" height="661" extended-state="0" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286219" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28288907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28288907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39929327" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -426,11 +387,9 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286219" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -449,7 +408,8 @@
     <MESSAGE value="Lab5" />
     <MESSAGE value="Lab 6 Array" />
     <MESSAGE value="Lab6 functions myArray(){}" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab6 functions myArray(){}" />
+    <MESSAGE value="Lab 6 review. Day 7 beginning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 6 review. Day 7 beginning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -458,6 +418,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Day6/Day6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/Day6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day6/Day6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -682,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,25 +740,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day6/Day6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab6_Arrays/Lab6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day6/Day6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="1.394052">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
@@ -789,13 +750,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab6_Arrays/lab6.js">
+    <entry file="file://$PROJECT_DIR$/Day6/Day6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39033458">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.2626459">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/Day7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
-            <element signature="n#!!doc;n#myArray#0" expanded="false" />
+            <element signature="e#0#48#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/Day7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32101166">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
