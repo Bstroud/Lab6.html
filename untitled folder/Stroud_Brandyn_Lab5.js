@@ -85,7 +85,7 @@ if((opValue === "subtract")||(opValue ==="-")) {
 }else{
     console.log("This is incorrect, try again.")
 
-}else if((opValue === "+")||(opValue === "add")){
+} if((opValue === "+")||(opValue === "add")){
     numbOne = parseFloat(prompt("Enter your first number:"));
     numbTwo = parseFloat(prompt("Enter your second number:"));
     add = addition(firstNum,secondNum);

@@ -52,7 +52,6 @@ returnedArray = evenArray(numberArray,userPrompt);
 
 console.log("the " + userPrompt + " numbers array is " + returnedArray);
 
-console.log();
 
 
 
