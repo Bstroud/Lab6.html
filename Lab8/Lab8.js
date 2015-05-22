@@ -9,24 +9,33 @@
 
 //global variable
 var myEmail = "b2stroud@fullsail.iii";
-
+returnedString;
 //function
-function newEmail(emailArg) {
+function charAtFunction(emailArg) {
 
     //local variables
     var atSymbol = emailArg.indexOf("@");
     var dot = emailArg.lastIndexOf(".");
     var space = emailArg.indexOf(" ");
+    var atSymbolCheck = emailArg.lastIndexOf("@");
+    var correct;
 
-    return atSymbol;
+    //if else
 
-//for loop
-    for (var indexOf=0;indexOf < atSymbol.length; i++) {
+    if ((atSymbol >= 0) && (space === -1) && (dot >= 0) && (dot > atSymbol) && (atSymbolCheck == atSymbol)) {
+        correct = "Email is correct"
+
+    }else{
+
+        correct = "Email is correct"
 
     }
 
+    //return
+    return correct
 }
 
-newEmail(myEmail);
+//main code
+var returnedString = charAtFunction(myEmail);
+console.log(returnedString = myEmail);
 
-prompt("Enter your email:", "b2stroud@fullsail.edu.iii");
