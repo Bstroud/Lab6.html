@@ -14,9 +14,16 @@ var myEmail = "b2stroud@fullsail.iii";
 function newEmail(emailArg) {
 
     //local variables
-    var atSymbol = emailArg.indexOf("b2stroud@fullsail.iii");
+    var atSymbol = emailArg.indexOf("@");
+    var dot = emailArg.lastIndexOf(".");
+    var space = emailArg.indexOf(" ");
 
-    return atSymbol
+    return atSymbol;
+
+//for loop
+    for (var indexOf=0;indexOf < atSymbol.length; i++) {
+
+    }
 
 }
 
