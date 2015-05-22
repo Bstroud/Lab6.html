@@ -7,35 +7,52 @@
 //SDI Lab 8
 //Working with Strings
 
+////global variable
+//var myEmail = "b2stroud@fullsail.iii";
+//returnedString;
+////function
+//function charAtFunction(emailArg) {
+//
+//    //local variables
+//    var atSymbol = emailArg.indexOf("@");
+//    var dot = emailArg.lastIndexOf(".");
+//    var space = emailArg.indexOf(" ");
+//    var atSymbolCheck = emailArg.lastIndexOf("@");
+//    var correct;
+//
+//    //if else
+//
+//    if ((atSymbol >= 0) && (space === -1) && (dot >= 0) && (dot > atSymbol) && (atSymbolCheck == atSymbol)) {
+//        correct = "Email is correct"
+//
+//    }else{
+//
+//        correct = "Email is correct"
+//
+//    }
+//
+//    //return
+//    return correct
+//}
+//
+////main code
+//var returnedString = charAtFunction(myEmail);
+//console.log(returnedString = myEmail);
+
 //global variable
-var myEmail = "b2stroud@fullsail.iii";
-returnedString;
+var letterArray = ["a b c d"];
+
 //function
-function charAtFunction(emailArg) {
 
-    //local variables
-    var atSymbol = emailArg.indexOf("@");
-    var dot = emailArg.lastIndexOf(".");
-    var space = emailArg.indexOf(" ");
-    var atSymbolCheck = emailArg.lastIndexOf("@");
-    var correct;
+function splString(strLetters, sectionOff) {
 
-    //if else
+    var arrayString = strLetters.split(sectionOff);
 
-    if ((atSymbol >= 0) && (space === -1) && (dot >= 0) && (dot > atSymbol) && (atSymbolCheck == atSymbol)) {
-        correct = "Email is correct"
+    console.log("The string is " + strLetters);
+    return arrayString;
 
-    }else{
-
-        correct = "Email is correct"
-
-    }
-
-    //return
-    return correct
 }
 
-//main code
-var returnedString = charAtFunction(myEmail);
-console.log(returnedString = myEmail);
+var space = " ";
 
+splString(letterArray, space);
