@@ -77,6 +77,7 @@ console.log("today is " + today);
 
     dateDiff = Math.abs(newDate) - Math.abs(olderDate);
 
+    dateDiff = Math.abs(dateDiff / 1000 / 60 / 60 / 60 / 24);
 
     console.log("The difference in the dates is " + dateDiff);
 
