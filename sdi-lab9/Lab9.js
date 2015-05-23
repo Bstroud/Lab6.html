@@ -64,8 +64,22 @@ var theDate;
 function myDate(argDate){
 
     var today = "5/23/2015";
+console.log("today is " + today);
 
-    console.log("Today is " + today);
+
+    var newDate = new Date(2018, 5, 6);
+    var olderDate = new Date(today);
+
+    //console.log(newDate);
+    //console.log(olderDate);
+
+    dateDiff = newDate - olderDate;
+
+    dateDiff = Math.abs(newDate) - Math.abs(olderDate);
+
+
+    console.log("The difference in the dates is " + dateDiff);
+
 }
 
 myDate();
