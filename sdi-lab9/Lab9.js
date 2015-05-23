@@ -3,19 +3,25 @@
 //Number and Date Objects
 //5-23-2015
 
+
+
+
+
+
+
+//Problem 1
+
 //global variables
 var NumString;
 
 //function
 function number(theNumber) {
 
-    var wholeNum = 30;
-    var deciNum = 15.5;
+    var num = 3.4143;
+    var n = num.toPrecision(4);
 
 
-console.log("Numbers so far: " + wholeNum + deciNum);
-
-
+    console.log("Answer equals " + n);
 
 }
 
@@ -23,3 +29,26 @@ console.log("Numbers so far: " + wholeNum + deciNum);
 
 //main code
 number();
+
+
+
+
+//// Problem 2
+//
+////global variable
+//var shoeSize;
+//
+//// function
+//
+//function size(numberSize){
+//
+//    var lengthOfFoot;
+//
+//    for (i = 0; i < lengthOfFoot.length; i++){
+//        if (lengthOfFoot[i] > 0 ){
+//            console.log("Thanks you for your submission");
+//        }
+//    }
+//}
+//
+//size();
