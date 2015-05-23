@@ -33,24 +33,39 @@
 
 
 
-// Problem 2
+//// Problem 2
+//
+////global variable
+//var shoeSize;
+//
+//// function
+//
+//function size(numberSize){
+//
+//    var lengthOfFoot = prompt("Enter your shoe size: ");
+//
+//    for (i = 0; i < lengthOfFoot.length; i++){
+//        if (lengthOfFoot[i] > 0 ){
+//            console.log("Thanks you for your submission");
+//        } else {
+//            console.log("Please enter a number.")
+//        }
+//    }
+//}
+//
+//size();
+
+//Problem 3
 
 //global variable
-var shoeSize;
+var theDate;
 
-// function
+//function
+function myDate(argDate){
 
-function size(numberSize){
+    var today = "5/23/2015";
 
-    var lengthOfFoot = prompt("Enter your shoe size: ");
-
-    for (i = 0; i < lengthOfFoot.length; i++){
-        if (lengthOfFoot[i] > 0 ){
-            console.log("Thanks you for your submission");
-        } else {
-            console.log("Please enter a number.")
-        }
-    }
+    console.log("Today is " + today);
 }
 
-size();
+myDate();
