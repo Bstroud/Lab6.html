@@ -14,12 +14,22 @@ function findNumber(argArray, argNumber) {
 
     //local var
     var nextGreatest = 0;
+    argArray = bubbleSort(argArray);
+    console.log(argArray);
+
 
     for (var i = 0; i < argArray.length; i++){
 
-        console.log(argArray[i]);
+        if (argNumber < argArray[i]);{
+
+            return argArray[i];
+
+        }
+
+
     }
 
+    return nextGreatest;
 }
 //main code
 returnedNum = findNumber(numArray, currentNum);
