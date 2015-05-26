@@ -11,15 +11,30 @@
 var numArray = Math.random();
 var returnedRandom;
 
-
 //function
 function randomNum(numbers) {
 
 //local var
-    numString = [21, 3, 17, 18, 12];
 
+    numString = ["21", " 3", " 17", " 18", " 12"];
+
+    var numbers = prompt("Enter your lottery number.");
+
+    if (numString == numbers) {
+
+        console.log("Congratulations!!! You're a millionaire.")
+
+    }else{
+
+        if (numString != numbers) {
+
+            console.log("Loser!")
+        }
+    }
 
 }
+
+
 
 
 //main code
