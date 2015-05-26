@@ -15,7 +15,8 @@ var returnedRandom;
 //function
 function randomNum(numbers) {
 
-
+//local var
+    numString = [21, 3, 17, 18, 12];
 
 
 }
